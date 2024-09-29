@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimkarSingh
+- 👋 Hi, I’m @HimkarSingh AKA Himanshu Kaushik
 - 🌱 I’m currently learning Advanced Python 
 
 

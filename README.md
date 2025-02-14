@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshu Kaushik
 - 🌱 I’m currently learning Advanced Python 
 
-- Why Himkar Singh?
+Why Himkar Singh?
 Himkar Singh is my unique digital identity, creatively derived from my real name, Himanshu Kaushik:
 
 "Him" represents Himanshu (the first three letters of my name).

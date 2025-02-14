@@ -6,8 +6,8 @@
 I go by **`Himkar Singh`** online, a unique alias derived from my real name, **`Himanshu Kaushik`**. Here's the breakdown:
 
 - **`Him`**: Taken from the first three letters of **`Himanshu`**.
-- **`Kar`**: A creative twist that personalizes the identity.
-- **`Singh`**: A powerful, memorable addition to complete the name.
+- **`Kar`**: "Kar" can be an abbreviation or an additional creative touch (possibly inspired by "Kaushik" or another meaningful element).
+- **`Singh`**: A unique, powerful, or cultural identity to the name
 
 This blend preserves a connection to my real name while establishing a distinctive personal brand across digital platforms.
 

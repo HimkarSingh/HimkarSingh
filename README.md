@@ -1,13 +1,16 @@
 - 👋 Hi, I’m @Himanshu Kaushik
 - 🌱 I’m currently learning Advanced Python 
 
-Why Himkar Singh?
-Himkar Singh is my unique digital identity, creatively derived from my real name, Himanshu Kaushik:
+## Why `Himkar Singh`?
 
-"Him" represents Himanshu (the first three letters of my name).
-"Kar" adds a distinct and personalized touch.
-"Singh" enhances the identity, making it more unique and impactful.
-This alias reflects my online persona while maintaining a connection to my real name. It serves as a consistent brand across platforms, helping me establish a strong and recognizable presence in the digital space.
+I go by **`Himkar Singh`** online, a unique alias derived from my real name, **`Himanshu Kaushik`**. Here's the breakdown:
+
+- **`Him`**: Taken from the first three letters of **`Himanshu`**.
+- **`Kar`**: A creative twist that personalizes the identity.
+- **`Singh`**: A powerful, memorable addition to complete the name.
+
+This blend preserves a connection to my real name while establishing a distinctive personal brand across digital platforms.
+
 
 
 <!---

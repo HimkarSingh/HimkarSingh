@@ -1,19 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Himanshu Kaushik
 - 🌱 I’m currently learning Advanced Python 
 💻 Pursuing Computer Science Engineering<br>🚀 Exploring AI/ML, Cybersecurity<br>🛠️ Passionate about building projects with real-world impact<br>🧠 Lifelong learner with a curious mind<br>🎯 Currently working on: Dark Web
-## Why `Himkar Singh`?
-
-I go by **`Himkar Singh`** online, a unique alias derived from my real name, **`Himanshu Kaushik`**. Here's the breakdown:
-
-- **`Him`**: Taken from the first three letters of **`Himanshu`**.
-- **`Kar`**: "Kar" can be an abbreviation or an additional creative touch (possibly inspired by "Kaushik" or another meaningful element).
-- **`Singh`**: A unique, powerful, or cultural identity to the name
-
-This blend preserves a connection to my real name while establishing a distinctive personal brand across digital platforms.
-
-
-
 <!---
 HimkarSingh/HimkarSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

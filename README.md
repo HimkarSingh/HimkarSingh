@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🌱 I’m currently learning Advanced Python 
-💻 Pursuing Computer Science Engineering<br>🚀 Exploring AI/ML, Cybersecurity<br>🛠️ Passionate about building projects with real-world impact<br>🧠 Lifelong learner with a curious mind<br>🎯 Currently working on: Dark Web
+<br>🚀 Exploring AI/ML, Cybersecurity<br>🛠️ Passionate about building projects with real-world impact<br>🧠 Lifelong learner with a curious mind<br>🎯 Currently working on: Dark Web
 <!---
 HimkarSingh/HimkarSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

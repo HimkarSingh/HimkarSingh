@@ -19,12 +19,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HimkarSingh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=FFB000&icon_color=FFB000" width="480" alt="GitHub Stats"/>
 
 <br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFB000)](https://linkedin.com/in/himkarsingh)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFB000)](https://x.com/himkarsingh99)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFB000)](https://discord.gg/zhBCdUvKrS)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFB000)](https://instagram.com/himkarsingh99)
-
 ```
 ░▒▓█████████████████████████████▓▒░
 ```

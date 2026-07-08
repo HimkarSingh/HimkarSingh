@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-░▒▓█  H I M K A R   S I N G H  █▓▒░
+░▒▓█  H 1 M K 4 R   S 1 N G H  █▓▒░
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFB000&center=true&vCenter=true&width=440&lines=security+researcher;AI+%2B+cybersecurity;building+in+the+dark" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFB000&center=true&vCenter=true&width=440&lines=Security+Researcher;AI+%2B+cybersecurity;building+in+the+dark" alt="Typing SVG" />
 
 <br/>
 
@@ -16,8 +16,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HimkarSingh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=FFB000&icon_color=FFB000" width="480" alt="GitHub Stats"/>
-
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=himkarsingh&showBorder=false)
 <br/><br/>
 ```
 ░▒▓█████████████████████████████▓▒░

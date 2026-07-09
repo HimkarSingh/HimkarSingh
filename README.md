@@ -15,13 +15,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimkarSingh&hide_border=true&background=0D1117&ring=B24BF3&fire=B24BF3&currStreakLabel=B24BF3" width="410" alt="GitHub Streak"/>
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B24BF3)](https://linkedin.com/in/himkarsingh)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=B24BF3)](https://x.com/himkarsingh99)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=B24BF3)](https://discord.gg/zhBCdUvKrS)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B24BF3)](https://instagram.com/himkarsingh99)
-
 ```
 ░▒▓█████████████████████████████████████▓▒░
 ```

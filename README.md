@@ -1,25 +1,29 @@
 <div align="center">
 
-```
-░▒▓█  H 1 M K 4 R   S 1 N G H  █▓▒░
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFB000&center=true&vCenter=true&width=440&lines=Security+Researcher;AI+%2B+cybersecurity;building+in+the+dark" alt="Typing SVG" />
+<img src="./assets/banner.gif" alt="himkar singh" width="620"/>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFB000)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFB000)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFB000)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFB000)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFB000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=B24BF3)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=B24BF3)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=B24BF3)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=B24BF3)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=B24BF3)
 
 <br/>
 
-![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=himkarsingh&showBorder=false)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimkarSingh&hide_border=true&background=0D1117&ring=B24BF3&fire=B24BF3&currStreakLabel=B24BF3" width="410" alt="GitHub Streak"/>
+
 <br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B24BF3)](https://linkedin.com/in/himkarsingh)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=B24BF3)](https://x.com/himkarsingh99)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=B24BF3)](https://discord.gg/zhBCdUvKrS)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B24BF3)](https://instagram.com/himkarsingh99)
+
 ```
-░▒▓█████████████████████████████▓▒░
+░▒▓█████████████████████████████████████▓▒░
 ```
 
 </div>

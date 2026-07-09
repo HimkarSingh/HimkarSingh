@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" alt="himkar singh" width="620"/>
+<img src="./banner.gif" alt="himkar singh" width="620"/>
 
 <br/>
 
